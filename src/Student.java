@@ -1,7 +1,7 @@
 
 public class Student {
 	String name, hakbun;			// member variable, instance variable
-	int kor, eng, mat, tot;
+	int age,kor, eng, mat, tot;
 	double avg;
 	char grade;
 	
